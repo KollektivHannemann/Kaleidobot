@@ -1,0 +1,3 @@
+git+https://github.com/craftoid/twitterbot
+numpy
+pillow
