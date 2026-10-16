@@ -2,6 +2,7 @@
 
 This is a twitterbot that transforms images you send to him to kaleidoskopic images. 
 
+![Kalaidobot in action](https://github.com/KollektivHannemann/Kaleidobot/blob/master/img.png)
 
 # Install the VirtualEnv
 
